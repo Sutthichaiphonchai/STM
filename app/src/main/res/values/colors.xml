@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="dividerColor">#80CBC4</color>
+    <color name="list_item_title">#AAAAAA</color>
+    <color name="list_group_title">#808080</color>
+
+    <color name="dimBackgroundColor">#40000000</color>
+    <color name="brightBackgroundColor">#ffffffff</color>
+    <color name="colorRowSeparator">#cccccc</color>
+    <color name="filterBackground">#cccccc</color>
+    <color name="filterText">#3366cc</color>
+
+
+    <color name="white_trans">#c4f0dfdf</color>
+    <color name="orange">#eaad43</color>
+    <color name="green">#45bc62</color>
+    <color name="bluelight">#49acd5</color>
+    <color name="bluedark">#2f333f</color>
+</resources>
